@@ -1,5 +1,8 @@
 # Primer-Extract
 
+Results and Methods for in silico extraction of amplicon fragment given a set of primers and distance comparison of two primers
+
+
 # Straight to the Results
 
 ![image](https://user-images.githubusercontent.com/18738632/39929009-ec4b4a6c-5504-11e8-88b1-e4717472b280.png)
